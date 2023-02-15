@@ -10,4 +10,4 @@ SO THAT I can plan a trip accordingly
 Link to live website: https://griffin-woodson.github.io/weather-dashboard/
 
 ## Screenshot
-![griffin-woodson github io_weather-dashboard](https://github.com/griffin-woodson/weather-dashboard/blob/6aae442b16a6fe1554d92bfc60138d928c616556/assets/images/weather-dashboard-screenshot.png)
+![griffin-woodson github io_weather-dashboard]()
